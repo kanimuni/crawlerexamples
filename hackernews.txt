@@ -1,0 +1,58 @@
+Buffer Layoffs
+https://open.buffer.com/layoffs-and-moving-forward/
+Microsoft is the first big company to say it's serving the legal marijuana trade
+http://www.nytimes.com/2016/06/17/business/dealbook/microsoft-following-the-clouds-to-offer-marijuana-tracking-software.html
+Cars are getting weird
+http://kottke.org/16/06/cars-are-getting-weird
+Show HN: Trigger – IFTTT for the stock market
+https://www.triggerfinance.com/
+Generative Models
+https://openai.com/blog/generative-models/
+Antarctic CO2 Hit 400 PPM for First Time in 4M Years
+http://www.scientificamerican.com/article/antarctic-co2-hit-400-ppm-for-first-time-in-4-million-years/
+ARM Announces Mali Egil Video Processor: VP9 Encode and Decode for Mobile
+http://www.anandtech.com/show/10428/arm-announces-mali-egil-video-processor
+Smart detection for passive sniffing in the Tor-network
+https://chloe.re/2016/06/16/badonions/
+The illegal city of Somerville
+http://cityobservatory.org/the-illegal-city-of-somerville/
+Gone Full Unikernel
+https://deferpanic.com/blog/gone-full-unikernel/
+Contextual Identities on the Web
+https://blog.mozilla.org/tanvi/2016/06/16/contextual-identities-on-the-web/
+Outsmarting Go Dependencies in Testing Code
+https://www.cockroachlabs.com/blog/outsmarting-go-dependencies-testing-code/#
+Stockfighter's Jailbreak CTF trainer is live
+https://www.stockfighter.io/#jailbreak
+Show HN: Scrape all posts from a Facebook Page, with individual Reaction counts
+https://github.com/minimaxir/facebook-page-post-scraper
+Sub-10ms roundtrip audio latency on Android
+http://superpowered.com/superpowered-android-media-server
+SpaceX misses landing on a drone ship, breaking the company's streak
+http://mashable.com/2016/06/15/falcon-9-rocket-landing-failure/#LDR_56chrmqz
+Show HN: The Segment AWS Stack
+https://segment.com/blog/the-segment-aws-stack/
+Unknown meteorite found in Swedish quarry
+http://phys.org/news/2016-06-unknown-alien-swedish-quarry.html
+Rules for Writing Technical Documentation (2009)
+http://www.developer.com/tech/article.php/3848981/The-7-Rules-for-Writing-World-Class-Technical-Documentation.htm
+45 years after the Pentagon Papers, a new challenge to government secrecy
+https://www.washingtonpost.com/opinions/45-years-after-the-pentagon-papers-a-new-challenge-to-government-secrecy/2016/06/12/dbbaad20-2ce6-11e6-b5db-e9bc84a2c8e4_story.html
+The contested papyrus “The Gospel of Jesus’s Wife”
+http://www.theatlantic.com/magazine/archive/2016/07/the-unbelievable-tale-of-jesus-wife/485573/?single_page=true
+Network Support for TCP Fast Open [pdf]
+https://www.nanog.org/sites/default/files/Paasch_Network_Support.pdf
+The Art of the Abandoned
+http://www.nybooks.com/daily/2016/06/14/foundling-museum-art-of-the-abandoned/
+The Nom Profit-Maximizing Operating System [pdf]
+http://www.cs.technion.ac.il/~dan/papers/nom-vee-2016.pdf
+Announcing Google Research, Europe
+https://research.googleblog.com/2016/06/announcing-google-research-europe.html
+Tumblr’s stumbles under Yahoo
+http://mashable.com/2016/06/15/how-yahoo-derailed-tumblr/
+Pin repositories to your GitHub profile
+https://github.com/blog/2191-pin-repositories-to-your-github-profile
+Scanning Live Ethereum Contracts for the “Unchecked-Send” Bug
+http://hackingdistributed.com/2016/06/16/scanning-live-ethereum-contracts-for-bugs/
+Small Asteroid Is Earth's Constant Companion
+http://www.jpl.nasa.gov/news/news.php?feature=6537
