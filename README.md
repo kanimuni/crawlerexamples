@@ -11,3 +11,10 @@ Then run npm install
 after that either of the scripts will run with "node <filename.js>
 
 The output will be in a .txt file.
+Links to more where all this came from ...
+
+**How to make a web crawler in JavaScript**
+http://www.netinstructions.com/how-to-make-a-simple-web-crawler-in-javascript-and-node-js/
+
+**Simple web scraping with Node.js / JavaScript**
+http://www.netinstructions.com/simple-web-scraping-with-node-js-and-javascript/
